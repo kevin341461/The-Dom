@@ -1,0 +1,19 @@
+h2{
+    text-align: center; 
+}
+
+#main-container {
+    margin: auto; 
+    width: 500px; 
+}
+
+ul{
+    background-color: #ccc; 
+    width: 200px; 
+    margin: auto; 
+    padding: 20px; 
+}
+
+li{
+    margin-left: 20px; 
+}
